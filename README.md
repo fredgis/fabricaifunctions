@@ -19,3 +19,4 @@ AI functions harness the power of GenAI for summarization, classification, text 
 
 It's seamless to incorporate these functions as part of data-science and data-engineering workflows, whether you're working with pandas or Spark. There is no detailed configuration, no complex infrastructure management, and no specific technical expertise needed.
 
+![](https://github.com/fredgis/fabricaifunctions/blob/main/AIFunctionsDemoFinalCapture.png)
